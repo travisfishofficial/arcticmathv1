@@ -1,37 +1,6 @@
 ## Arctic 1.0
 Arctic 1.0 is Powered By [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet). Our Proxy Allows You To **get around internet restrictions** This Proxy is Powerful it Has it's Own Tab System Build For Students, Worker's, Or Anyone Who is Bored 🧊 (MADE WITH ICE AND SNOW) 🧊
 ### Key Features:
-<details>
-<summary>View All Features</summary>
-  
-- Advanced Tab Cloaking
-  
-- Advanced About:Blank Cloaking
-  
-- Hiding site from browser history
-  
-- Clickoff Cloaking
-  
-- Automatic URL Cloaking
-  
-- Customizable/Personalization features
-  
-- Access settings easily (right-click)
-
-- Inspect Element
-  
-- URL Bar
-
-- Tabs
-  
-- Clean UI
-  
-- Powerful & fast web proxy
-  
-- A large selection of Apps & Games
-  
-- ...and more!
-</details>
 
 ### Current Developers:
 - [Fowntain](https://github.com/fowntain)
