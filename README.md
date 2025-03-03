@@ -1,6 +1,5 @@
 ## Arctic 1.0
 Arctic 1.0 is Powered By [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet). Our Proxy Allows You To **get around internet restrictions** This Proxy is Powerful it Has it's Own Tab System Build For Students, Worker's, Or Anyone Who is Bored 🧊 (MADE WITH ICE AND SNOW) 🧊
-### Key Features:
 
 ### Current Developers:
 - [Fowntain](https://github.com/fowntain)
